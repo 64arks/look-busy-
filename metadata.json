@@ -1,0 +1,6 @@
+{
+  "name": "Look Busy! — Office Slacking Stealth Game",
+  "description": "An isometric office stealth and comedy game where you battle soul-crushing boredom with forbidden slacking activities without getting caught by your coworker, manager, security guard, or boss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
